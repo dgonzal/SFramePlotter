@@ -1,0 +1,5 @@
+*~
+bin/*
+tmp/*
+*.pcm
+*Dict.cxx
